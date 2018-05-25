@@ -1,5 +1,6 @@
 ## What is it?
-A script that generates html and csv of type ids from STATIC DATA EXPORT (SDE).
+A script that generates html and CSV of type ids from STATIC DATA EXPORT (SDE).  
+CSV can be opened with Google Spreadsheets or Excel.
 
 ## Usage
 This script is written in python 3.x.  
