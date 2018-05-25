@@ -1,0 +1,11 @@
+[MASTER]
+# Python code to execute, usually for sys.path manipulation such as
+# pygtk.require().
+init-hook="import sys; sys.path.append('module'); sys.path.append('~/Envs/eveonline-types-lids/Lib/site-packages')"
+
+[MESSAGES CONTROL]
+# C0111:Missing class docstring
+# R0903:Too few public methods
+# W0223:Method is abstract in class but is not overridden
+# E0401:Unable to import
+disable=C0111,R0903,W0223,E0401
