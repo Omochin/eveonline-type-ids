@@ -12,7 +12,7 @@ python run.py
 ```
 
 ## License
-evedict is licensed under the The Unlicense, see LICENSE.
+eveonline-type-ids is licensed under the The Unlicense, see LICENSE.
 
 ## Contacts
 * Omochin
