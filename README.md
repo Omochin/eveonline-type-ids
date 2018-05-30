@@ -7,6 +7,7 @@ This script is written in python 3.x.
 Download [STATIC DATA EXPORT (SDE)](https://developers.eveonline.com/resource/resources).  
 Move sde-xxxxxxxx-TRANQUILITY.zip to working directory.  
 ```
+python -m pip install --upgrade pip
 git clone https://github.com/Omochin/eveonline-type-ids.git
 cd eveonline-type-ids/
 pip install -r requirements.txt
